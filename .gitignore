@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/copy_of_all_data
+quality_data/
+cancer_data/
